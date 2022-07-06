@@ -4,7 +4,6 @@ This was a challenge to create a random dice generator game where the highest nu
 
 ## Table of Contents
 
-- [Book Search Engine](#book-search-engine)
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
   - [Screenshots](#screenshots)
